@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  url: "http://15.206.36.205:8765/socketserver/"
+  // url: "http://172.23.234.46:8080/"
+  //url: "http://172.23.234.65:8080/"
+  //url: "http://172.23.234.46:8080/"
 };
 
 /*
