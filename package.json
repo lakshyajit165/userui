@@ -23,7 +23,7 @@
     "@angular/platform-browser-dynamic": "~8.1.2",
     "@angular/router": "~8.2.0",
     "net": "^1.0.2",
-    "ng-packagr": "^5.6.1",
+    "ng-packagr": "^10.1.1",
     "ng-starrating": "^1.0.7",
     "ngx-toastr": "^11.1.2",
     "rxjs": "~6.4.0",
